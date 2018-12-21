@@ -23,6 +23,7 @@ namespace HelloWPF
         public MainWindow()
         {
             InitializeComponent();
+            // add a comment here to change the file
         }
     }
 }
