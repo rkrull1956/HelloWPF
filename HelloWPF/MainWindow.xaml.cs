@@ -25,6 +25,7 @@ namespace HelloWPF
             InitializeComponent();
             // add a comment here to change the file
             // add another comment to change the file
+            // added another comment from GIT HUB VIEW
         }
     }
 }
