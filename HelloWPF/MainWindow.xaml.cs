@@ -27,6 +27,7 @@ namespace HelloWPF
             // add another comment to change the file
             // added another comment from GIT HUB VIEW
             // added comment locally again
+            // added a comment 2 locally here
         }
     }
 }
