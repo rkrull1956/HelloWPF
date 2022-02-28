@@ -12,6 +12,7 @@
         <Button x:Name="button1" Content="Push Me" HorizontalAlignment="Left" Margin="583,271,0,0" VerticalAlignment="Top" Width="135" FontSize="24"/>
         <CheckBox Content="Check Here!" HorizontalAlignment="Left" Margin="78,230,0,0" VerticalAlignment="Top" FontSize="22" Width="182" FontWeight="Bold" Background="#FFBF2020"/>
         <RadioButton Content="Radio Button" HorizontalAlignment="Left" Margin="103,300,0,0" VerticalAlignment="Top" FontSize="24" Background="#FF9AA019"/>
+        <Button Content="Hit Me Here!" HorizontalAlignment="Left" Margin="522,167,0,0" VerticalAlignment="Top" Width="191" Height="62"  FontSize="24"/>
 
     </Grid>
 </Window>
